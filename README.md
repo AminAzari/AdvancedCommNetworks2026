@@ -1,6 +1,4 @@
-Here is the Markdown code for the course description:
 
-```markdown
 # شبکه‌های ارتباطی پیشرفته
 
 ## معرفی
@@ -44,4 +42,4 @@ Here is the Markdown code for the course description:
 - شبیه سازی یک ایستگاه رادیویی تکی نسل دوم تا پنجم
 
 در نتیجه در پایان ترم، دانشجویان علاقه مند می توانند درس را با یک گزارش فنی یا مقاله ی حرفه ای به پایان برسانند.
-```
+
